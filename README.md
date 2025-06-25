@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Cleaning and visualizing data using R, Python and SAS**
 
-- 💬 Ask me about:
+- 💬 Ask me about
   - Cleaning & visualizing data using **Python** and **R**
   - Performing data analysis with **SAS (Base & Advanced)**
   - Creating interactive dashboards in **Power BI**
