@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/35fea151d55537a0cc9db627c2c7348d8ca9d684598d9a4de83dc46e77e9a433/68747470733a2f2f3134393639353834372e76322e707265737361626c6563646e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30322f4469676974616c2d4d61726b6574696e672d57726974652d466f722d55732e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankalangi&label=Profile%20views&color=0e75b6&style=flat" alt="pavankalangi" /> </p>
 
-- 🌱 I’m currently looking for a job as **Machine Learning, SQL, Power BI.**
+- Currently seking roles in **Data Analysis, Machine learning and Business Intelligence**
 
 - 💬 Ask me about **Data analysis & Machine learning**
 
 - 📫 How to reach me **pavanvenkat2018@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I believe humor helps simplify the most complex data problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
