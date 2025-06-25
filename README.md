@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Pavan Venkat Kalangi</h1>
+<h1 align="center">Hi, I'm Pavan Venkat Kalangi</h1>
 <h3 align="center">Aspiring Data Scientist with strong mathematics background having knowledge on Python, Machine learning,Deep learning, Natural Language Processing, Market Basket Analysis and as well as time series forecasting. A punctual and hard working student, very interested in learning new stuff and research further to unknown information. Looking forword to adopt and learn from training in the new environment,also meeting new friends and to work together with them as a team</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/35fea151d55537a0cc9db627c2c7348d8ca9d684598d9a4de83dc46e77e9a433/68747470733a2f2f3134393639353834372e76322e707265737361626c6563646e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30322f4469676974616c2d4d61726b6574696e672d57726974652d466f722d55732e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankalangi&label=Profile%20views&color=0e75b6&style=flat" alt="pavankalangi" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, SQL, Power BI.**
+- 🌱 I’m currently looking for a job as **Machine Learning, SQL, Power BI.**
 
-- 💬 Ask me about **Machine Learning algorithms, NLP.**
+- 💬 Ask me about **Data analysis & Machine learning**
 
 - 📫 How to reach me **pavanvenkat2018@gmail.com**
 
