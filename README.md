@@ -6,8 +6,6 @@
 
 - Currently seking roles in **Data Analysis, Machine learning and Business Intelligence**
 
-- 💬 Ask me about **Cleaning and visualizing data using R, Python and SAS**
-
 - 💬 Ask me about
   - Cleaning & visualizing data using **Python** and **R**
   - Performing data analysis with **SAS (Base & Advanced)**
