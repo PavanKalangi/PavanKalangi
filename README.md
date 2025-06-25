@@ -6,7 +6,13 @@
 
 - Currently seking roles in **Data Analysis, Machine learning and Business Intelligence**
 
-- 💬 Ask me about **Data analysis & Machine learning**
+- 💬 Ask me about **Cleaning and visualizing data using R, Python and SAS**
+
+- 💬 Ask me about:
+  - Cleaning & visualizing data using **Python** and **R**
+  - Performing data analysis with **SAS (Base & Advanced)**
+  - Creating interactive dashboards in **Power BI**
+
 
 - 📫 How to reach me **pavanvenkat2018@gmail.com**
 
